@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvedor com mais de 2 anos de experiência em criação de soluções digitais eficientes, atuando tanto no Front-end quanto no Back-end. Especializado em interfaces web modernas, responsivas e com foco em experiência do usuário (UX).
 
-Experiência com HTML, CSS, JavaScript, React.js e Tailwind, além de integração com APIs REST e versionamento com Git. Sigo boas práticas como código limpo, acessibilidade, testes automatizados e otimização de performance. Proativo, colaborativo e com grande interesse em crescer tecnicamente.
+Experiência com HTML, CSS, JavaScript, Python, React.js e Tailwind, além de integração com APIs REST e versionamento com Git. Sigo boas práticas como código limpo, acessibilidade, testes automatizados e otimização de performance. Proativo, colaborativo e com grande interesse em crescer tecnicamente.
 
 ------
 #### 🛠️ Tecnologias e ferramentas 
