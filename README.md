@@ -1,12 +1,11 @@
-## Olá, eu sou o Renilson Medeiros 👋
-💻 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-end Jr | React | Python | AWS
+## Olá, eu sou o Renilson Medeiros 
 
-### 🚀 Sobre mim
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvedor com mais de 2 anos de experiência em criação de soluções digitais eficientes, atuando tanto no Front-end quanto no Back-end. Especializado em interfaces web modernas, responsivas e com foco em experiência do usuário (UX).
 
 Experiência com HTML, CSS, JavaScript, React.js e Tailwind, além de integração com APIs REST e versionamento com Git. Sigo boas práticas como código limpo, acessibilidade, testes automatizados e otimização de performance. Proativo, colaborativo e com grande interesse em crescer tecnicamente.
 
 ------
+#### 🛠️ Tecnologias e ferramentas 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
@@ -21,3 +20,5 @@ Experiência com HTML, CSS, JavaScript, React.js e Tailwind, além de integraç�
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=fff)
+
+![Snake animation](https://github.com/renilson-medeiros/renilson-medeiros/blob/output/github-contribution-grid-snake.svg)
