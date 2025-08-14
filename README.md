@@ -22,3 +22,4 @@ Experiência com HTML, CSS, JavaScript, React.js e Tailwind, além de integraç�
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=fff)
 
 ![Snake animation](https://github.com/renilson-medeiros/renilson-medeiros/blob/output/github-contribution-grid-snake.svg)
+
