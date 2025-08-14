@@ -21,8 +21,3 @@ Experiência com HTML, CSS, JavaScript, React.js e Tailwind, além de integraç�
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=fff)
-
-<div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renilson-medeiros&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renilson-medeiros&layout=compact&theme=radical" />
-</div>
