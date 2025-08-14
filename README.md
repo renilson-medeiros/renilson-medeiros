@@ -21,5 +21,3 @@ Experiência com HTML, CSS, JavaScript, React.js e Tailwind, além de integraç�
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=fff)
 
-![snake gif](https://github.com/renilson-medeiros/renilson-medeiros/blob/output/github-contribution-grid-snake.svg)
-
